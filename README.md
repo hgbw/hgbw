@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Hugo (or @hgbw) and I'm a 20-year old founder of Mind The Stairs - a youth mental health start-up.
+- 👀 I’m interested in youth innovation, projects with an admirable cause, and out-of-the-box ideas.
+- 🌱 I’m currently learning about Swift & SwiftUI to build a new app for our community of young people.
+- 💞️ I’m looking to collaborate on adding features along the way which improve the lives of our users.
+- 📫 How to reach me - You can send me an email to hugo@hugostorm.co.uk or drop me a message on Instagram (@hgbw)
